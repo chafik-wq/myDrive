@@ -20,18 +20,24 @@
 
 ## 🔍 Index
 
-- [Features](#features)
-- [Tech stack](#tech-stack)
-- [Running](#running)
-  - [Docker](#docker)
-  - [Non-Docker](#non-docker)
-- [Common installation issues](#common-installation-issues)
-- [Screenshots](#screenshots)
-- [Video](#video)
-- [Live demo](#live-demo)
-- [Feature requests/bug reports](#bugs)
-- [Updating from a previous version of myDrive](#updating)
-- [Known issues and future improvments](#known-issues)
+- [](#)
+  - [🔍 Index](#-index)
+  - [⭐️ Features](#️-features)
+  - [👨‍🔬 Tech Stack](#-tech-stack)
+  - [Running](#running)
+    - [🐳 Docker](#-docker)
+      - [**Docker Compose**](#docker-compose)
+      - [**Docker Run**](#docker-run)
+    - [💻 Non - Docker](#-non---docker)
+      - [Possible installation issues](#possible-installation-issues)
+  - [📸 Screenshots](#-screenshots)
+  - [🎥 Video](#-video)
+  - [🕹️ Live demo](#️-live-demo)
+  - [👾 Bug reports and feature requests](#-bug-reports-and-feature-requests)
+  - [⬆️ Updating from a previous version of myDrive](#️-updating-from-a-previous-version-of-mydrive)
+  - [🔮 Known issues and future improvments](#-known-issues-and-future-improvments)
+      - [Issues](#issues)
+      - [Future improvments](#future-improvments)
 
 <span id="features"></span>
 

@@ -18,7 +18,8 @@
     "create-video-thumbnails:dev": "NODE_ENV=development node serverUtils/createVideoThumbnails.js",
     "migrate-to-mydrive4": "NODE_ENV=production node serverUtils/migrateMyDrive4.js",
     "migrate-to-mydrive4:dev": "NODE_ENV=development node serverUtils/migrateMyDrive4.js",
-    "test": "NODE_ENV=test jest"
+    "test": "NODE_ENV=test jest",
+    "clean": "rm -rf dist-frontend dist-backend"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.5",
