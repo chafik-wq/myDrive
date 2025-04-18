@@ -1,5 +1,5 @@
 ## Credits
-This project is based on work by [Original Author](https://github.com/original-author).
+This project is based on work by [Original Author](https://github.com/subnub/myDrive).
 
 # ![MyDrive Homepage](https://github.com/subnub/myDrive/blob/master/github_images/homepage.png?raw=true)
 
